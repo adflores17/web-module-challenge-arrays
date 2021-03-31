@@ -154,7 +154,7 @@ function removeFlavorByName(array, flavor){
 }
 
 console.log('Task 6:',removeFlavorByName(originalFlavors, 'Rocky Road'));
-
+ 
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 7: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 July 7th is "World Chocolate Day" and Baskin Robins wants to create promotional materials highlighting all of their chocolate flavors. 
